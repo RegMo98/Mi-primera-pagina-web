@@ -1,0 +1,30 @@
+/*Comment
+selector {
+    propoerty: value;
+}
+*/
+
+body{
+    background-color: rgb(221, 212, 221);
+    color: #221c1f;
+    /*check more fonts on fonts.google.com*/
+    font-family: 'Nunito', sans-serif;
+    font-size: 25px;
+}
+/*when calling an element from a html class is not necesary to includding iuna structure, to call the class write .class*/
+
+/*change title*/
+.Titulo{
+    color:#544C6B;
+    font-family: 'Unbounded', cursive;
+    font-size: 100px;
+}
+
+}/*change subtitles*/
+h2{
+    color:#480E28;
+}
+
+.imagen2{
+    width: 1500px;
+}
